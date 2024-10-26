@@ -11,4 +11,4 @@ I'm currently a senior undergraduate studying Statistics and Machine Learning at
 
 I hope to pursue a Statistics Ph.D. and am currently applying for the fall 2025 cycle.
 
-Website is still under-construction
+Website is still under-construction.
