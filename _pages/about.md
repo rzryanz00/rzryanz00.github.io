@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior undergraduate studying Statistics and Machine Learning at Carnegie Mellon University.
+Hello! I am a senior undergraduate student at Carnegie Mellon University, majoring in Statistics and Machine Learning.
 
-I hope to pursue a Statistics Ph.D. and am currently applying for the fall 2025 cycle.
+I am currently applying to Statistics Ph.D. programs for the Fall 2025 admission cycle. Hopefully, I'll be able to update this page with my future research.
 
-Website is still under-construction.
+In my free time, I enjoy playing tennis and volleyball with friends.
+
+This website is under construction.
