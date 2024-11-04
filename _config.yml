@@ -223,6 +223,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  competitions:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -280,6 +283,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _competitions
+  - scope:
+      path: ""
+      type: competitions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
