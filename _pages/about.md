@@ -13,4 +13,3 @@ I am currently applying to Statistics Ph.D. programs for the Fall 2025 admission
 
 I grew up in New Jersey, and in my free time, I enjoy rock climbing and playing tennis and volleyball with friends.
 
-This website is under construction.
