@@ -9,6 +9,4 @@ redirect_from:
 
 Hello! I am a senior undergraduate student at Carnegie Mellon University, majoring in Statistics and Machine Learning.
 
-I am currently applying to Statistics Ph.D. programs for the Fall 2025 admission cycle. Hopefully, I'll be able to update this page with my future research.
-
-I grew up in New Jersey. In my free time I like to rock climb, hike, and play tennis, although I generally enjoy any physical activity.
+I'm happy to announce that I will be attending UT Austin's Statistics PhD Program in the fall!
